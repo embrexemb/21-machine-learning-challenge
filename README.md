@@ -3,3 +3,7 @@
 #Logistic Regression
 
 #SVM
+
+#KNN
+
+#Random Forest
