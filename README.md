@@ -13,7 +13,6 @@ This assignment had three requirements:
   Step 3: Identify the models that show the best scoring in accuracy of prediction of the existence of exoplanets
 
 
-
 #Logistic Regression
 
 #SVM
