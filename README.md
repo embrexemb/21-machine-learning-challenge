@@ -15,11 +15,7 @@ This assignment had three requirements:
   Step 2: Summarize findings
   Step 3: Identify the models that show the best scoring in accuracy of prediction of the existence of exoplanets
 
+Four machine learning classification models were considered.  They were:  Logistic Regression, SVM, Nearest Neighbor, and Random Forest.
 
-#Logistic Regression
 
-#SVM
 
-#KNN
-
-#Random Forest
